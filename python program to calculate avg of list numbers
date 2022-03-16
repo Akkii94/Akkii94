@@ -1,0 +1,4 @@
+#Avg function for list numbers.
+def avg():
+    for i in p:
+        return sum(p)/len(p)
